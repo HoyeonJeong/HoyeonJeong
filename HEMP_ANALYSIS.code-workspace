@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\Hemp_THC_analysis"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\FSAhempplantedacre"
+		},
+		{
+			"path": "..\\hemp_pollen"
+		},
+		{
+			"path": "..\\HoyeonJeong"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HoyeonJeong"
+	}
+}
